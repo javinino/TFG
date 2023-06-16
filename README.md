@@ -1,2 +1,2 @@
 # TFG
-Desarrollo machine learning para accidentes con bicicletas en la ciudad de Marid
+Desarrollo predictivo de accidentes de tráfico en la ciudad de Madrid involucrados con una bicicleta
